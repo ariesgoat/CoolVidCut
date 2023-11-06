@@ -2,9 +2,9 @@
   "appId" : "",
   "version" : "1.1.2",
   "isadsfirst":"true",
-  "isguoqi":"true",
+  "isguoqi":"false",
   "ischkfirst":"false",
   "iscommforul":"false",
-  "iscommfortime":"true",
+  "iscommfortime":"false",
   "rapapikey1":"WrLKQzaLyh0m3QhYa1jp7XIjdXZtwlweNDHsNXoSucUsypGhhomyEH24HGBQRdF+DSDPjMxSWhLnNCjY/THlkg==",
 }</span>
